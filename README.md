@@ -7,7 +7,7 @@ This project is part of the course CPE231 - Database System. A website about reg
   2. Getting started with Apache and MySQL.
   3. Open "http://localhost/phpmyadmin/" and connect the "c9_stu_regis" file into the database.
   4. Navigate to the "xampp" and "htdocs" folders, then create a "test" folder that contains the sample code.
-  5. Open "http://localhost/test" and try out the website.
+  5. Open "http://localhost/test/webphp/index.php" and try out the website.
   
 ### Note
 Can find details of the website design process in the "report" file !!!
